@@ -1,0 +1,207 @@
+THelloPoly
+v7
+r0
+t309719263.770192
+cCheck dependencies
+cProcessInfoPlistFile /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist HelloPoly-Info.plist
+cCompileXIB /Users/Trey/Desktop/HelloPoly/MainWindow.xib
+cProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-alwhjffcukaikcgxtjufhrmoipjb/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o /Users/Trey/Desktop/HelloPoly/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o /Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly normal i386
+cGenerateDSYMFile /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+cTouch /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.h
+c000000004CC5B95C0000000000000164
+t1288026460
+s356
+i<UIKit/UIKit.h>
+
+N/Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.m
+c000000004CC5B95C00000000000009E8
+t1288026460
+s2536
+i"HelloPolyAppDelegate.h"
+
+N/Users/Trey/Desktop/HelloPoly/HelloPoly_Prefix.pch
+c000000004CC5B95C00000000000000BB
+t1288026460
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Trey/Desktop/HelloPoly/MainWindow.xib
+c000000004CC5B95C0000000000002112
+t1288026460
+s8466
+
+N/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+t1288026463
+s204
+
+N/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+t1288026463
+s102
+
+N/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+t1288026463
+s15648
+
+N/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+t1288026462
+s599
+
+N/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib
+t1288026462
+s1533
+
+N/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo
+t1288026462
+s8
+
+N/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList
+c000000004CC5B95E00000000000000FA
+t1288026462
+s250
+
+N/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+t1288026463
+s46280
+
+N/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+t1288026463
+s6284
+
+N/Users/Trey/Desktop/HelloPoly/main.m
+c000000004CC5B95C0000000000000182
+t1288026460
+s386
+i<UIKit/UIKit.h>
+
+N/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-alwhjffcukaikcgxtjufhrmoipjb/HelloPoly_Prefix.pch.gch
+t1288026463
+s15211536
+
+NHelloPoly-Info.plist
+c000000004CC5B95C000000000000038D
+t1288026460
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309719262#309719262#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o /Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309719263.635001
+e309719263.727839
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+x/Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.m309719263#309719263#0(0"0(0#0#60"/Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.m8603209248#1895"    cd /Users/Trey/Desktop/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator -I/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-alwhjffcukaikcgxtjufhrmoipjb/HelloPoly_Prefix.pch -c /Users/Trey/Desktop/HelloPoly/Classes/HelloPolyAppDelegate.m -o /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o /Users/Trey/Desktop/HelloPoly/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s309719263.633516
+e309719263.711239
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+x/Users/Trey/Desktop/HelloPoly/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Trey/Desktop/HelloPoly/main.m309719263#309719263#0(0"0(0#0#36"/Users/Trey/Desktop/HelloPoly/main.m8600908704#1855"    cd /Users/Trey/Desktop/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator -I/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -include /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-alwhjffcukaikcgxtjufhrmoipjb/HelloPoly_Prefix.pch -c /Users/Trey/Desktop/HelloPoly/main.m -o /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Trey/Desktop/HelloPoly/MainWindow.xib
+s309719262.441968
+e309719262.807145
+r1
+xCompileXIB
+x/Users/Trey/Desktop/HelloPoly/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib309719262#309719262#0(0"0(0#0#44"/Users/Trey/Desktop/HelloPoly/MainWindow.xib8599236576#545"    cd /Users/Trey/Desktop/HelloPoly    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib /Users/Trey/Desktop/HelloPoly/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+s309719263.750407
+e309719263.764757
+r1
+xGenerateDSYMFile
+x/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+x/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/HelloPoly.app.dSYM build/Debug-iphonesimulator/HelloPoly.app/HelloPoly309719263#309719263#0(0"0(0#0#81"/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly8603712384#362"    cd /Users/Trey/Desktop/HelloPoly    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly -o /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM0#
+
+CLd /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly normal i386
+s309719263.727937
+e309719263.750301
+r1
+xLd
+x/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+xnormal
+xi386
+lSLF07#2@86"Link /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly309719263#309719263#0(0"0(0#0#0"8604021696#865"    cd /Users/Trey/Desktop/HelloPoly    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator -F/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator -filelist /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly0#
+
+CProcessInfoPlistFile /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist HelloPoly-Info.plist
+s309719262.422539
+e309719262.441865
+r1
+xProcessInfoPlistFile
+x/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+xHelloPoly-Info.plist
+lSLF07#2@28"Process HelloPoly-Info.plist309719262#309719262#0(0"0(0#0#50"/Users/Trey/Desktop/HelloPoly/HelloPoly-Info.plist32651513917341812#458"    cd /Users/Trey/Desktop/HelloPoly    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloPoly-Info.plist -genpkginfo /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist0#
+
+CProcessPCH /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-alwhjffcukaikcgxtjufhrmoipjb/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s309719262.807302
+e309719263.633419
+r1
+xProcessPCH
+x/var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-alwhjffcukaikcgxtjufhrmoipjb/HelloPoly_Prefix.pch.gch
+xHelloPoly_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile HelloPoly_Prefix.pch309719262#309719263#0(0"0(0#0#50"/Users/Trey/Desktop/HelloPoly/HelloPoly_Prefix.pch6879649131131792384#1754"    cd /Users/Trey/Desktop/HelloPoly    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap -iquote /Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap -F/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator -I/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/include -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386 -I/Users/Trey/Desktop/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources -c /Users/Trey/Desktop/HelloPoly/HelloPoly_Prefix.pch -o /var/folders/41/41KdE7ufE98JTX3Wjs9VgE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-alwhjffcukaikcgxtjufhrmoipjb/HelloPoly_Prefix.pch.gch0#
+
+CTouch /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+s309719263.764839
+e309719263.770134
+r1
+xTouch
+x/Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+lSLF07#2@77"Touch /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app309719263#309719263#0(0"0(0#0#0"8603486400#262"    cd /Users/Trey/Desktop/HelloPoly    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Trey/Desktop/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app0#
+
