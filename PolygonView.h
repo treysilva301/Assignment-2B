@@ -17,5 +17,5 @@
 	
 }
 + (NSArray *) pointsForPolygonInRect:(CGRect)rect numberOfSides:(int)numberOfSides;
-- (void) DrawShape:(CGRect)rect;
+
 @end

@@ -31,7 +31,7 @@
 	numberOfSidesLabel.text = [NSString stringWithFormat:@"%d", [poly numberOfSides]];
 	increaseButton.enabled = ([poly numberOfSides] < [poly maximumNumberOfSides]) ? YES:NO;
 	decreaseButton.enabled = ([poly numberOfSides] > [poly minimumNumberOfSides]) ? YES:NO;
-	
+	[polyView setNeedsDisplay];
 	
 }
 

@@ -26,7 +26,7 @@
 	return result;
 }
 
-- (void)DrawShape:(CGRect)rect {
+- (void)drawRect:(CGRect)rect {
 	
 	CGContextRef context = UIGraphicsGetCurrentContext();
 	
@@ -59,7 +59,7 @@
 	[[UIColor blackColor] setStroke];
 	CGContextDrawPath(context, kCGPathFillStroke);
 	
-	PolygonLabel.text = @"Testing";
+	PolygonLabel.text = [poly name];
 	
 }
 @end
